@@ -1,0 +1,53 @@
+/*.....................................Header.....................................*/
+
+
+.header{
+ background-color:  #b1dc63;
+ color: white;
+
+}
+
+.pos{
+	margin-top:20px;
+}
+
+
+/*.....................................Content.....................................*/
+
+.content{
+ background-color: #fff0fe;
+ 
+}
+
+#para{
+	text-align: center;
+	color: #800080;
+ 	font-weight: bold;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+}
+
+/*.....................................Footer.....................................*/
+.footer{
+	background-color: #b1dc63;
+    cursor: pointer;
+	
+}
+
+#fr{
+  color: #90949c;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-top: 1px;
+    padding-left: 15px;
+
+}
+ 
+#foot{
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 1px;
+    padding-left: 15px;
+    color: #3b5998;
+}
